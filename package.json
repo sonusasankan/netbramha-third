@@ -1,0 +1,24 @@
+{
+  "name": "netbramha-test-third",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonusasankan/netbramha-third.git"
+  },
+  "author": "Sonu Sasankan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonusasankan/netbramha-third/issues"
+  },
+  "homepage": "https://github.com/sonusasankan/netbramha-third#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
